@@ -1,0 +1,14 @@
+[
+  {
+    "id": "intro",
+    "title": "Introduction to JLang",
+    "summary": "Learn what JLang is and how it works.",
+    "content": "JLang is a modern programming language designed for..."
+  },
+  {
+    "id": "variables",
+    "title": "Working with Variables",
+    "summary": "Understand how to declare and use variables in JLang.",
+    "content": "In JLang, variables are declared using..."
+  }
+]

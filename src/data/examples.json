@@ -1,0 +1,14 @@
+[
+  {
+    "id": "hello-world",
+    "title": "Hello World",
+    "description": "Your first program in JLang.",
+    "code": "//TODO"
+  },
+  {
+    "id": "loop-example",
+    "title": "Loop Example",
+    "description": "Loops in JLang.",
+    "code": "//TODO"
+  }
+]
