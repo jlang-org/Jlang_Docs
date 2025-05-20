@@ -3,8 +3,6 @@ import TutorialCard from "../../components/tutorial_card/TutorialCard";
 import tutorials from '../../data/tutorials.json';
 import type { Tutorial } from '../../types/Tutorial';
 
-console.log("Tutorials loaded:", tutorials);
-
 export default function Home() {
   return (
 
